@@ -1,1 +1,1 @@
-//generate color-blue;
+//generate color-pink;
