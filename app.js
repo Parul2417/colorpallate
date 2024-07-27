@@ -1,4 +1,4 @@
-//generate color -"blue";
+//generate color -"pink";
 //generate color="yellow"
 
 
